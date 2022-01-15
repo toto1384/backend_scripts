@@ -1,1 +1,1 @@
-sudo node backend/index.js --secret tfiqlmsdcv --apiKey CFDdjqYMSUxUBhVZzEKzhgmpyaDooKDD &
+sudo node backend/index.js --secret [secret] --apiKey [apikey] &
